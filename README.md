@@ -157,13 +157,14 @@ The Power BI dashboard provides:
 
 13. Repository Structure
 
-The project files are organized into the following folders:
+The project files are organised into the following folders:
 
-- "images/": Power BI dashboard screenshots.
-- "sql/": Seven SQL scripts and SQL documentation.
-- "ikea_gifting_customer_analytics.pbix": Power BI dashboard file.
-- "ikea_rfm_segmentation.ipynb": Python notebook for RFM analysis.
-- "README.md": Project documentation.
+- "Power BI/": Power BI dashboard file.
+- "data/": Dataset files used for the analysis.
+- "images/": Screenshots of the Power BI dashboards.
+- "python/": Jupyter Notebook containing data processing, RFM analysis, and customer segmentation.
+- "sql/": Seven SQL scripts covering database creation, data import validation, data combination, exploration, cleaning, and validation.
+- "README.md": Project overview, methodology, documentation, and key learning outcomes.
 
 14. Key Learning Outcomes
 

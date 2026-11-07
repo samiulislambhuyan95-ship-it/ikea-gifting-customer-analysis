@@ -1,1 +1,1 @@
-SQL scripts foe data preparation, validation, exploration, and cleaning
+SQL scripts for data preparation, validation, exploration, and cleaning
